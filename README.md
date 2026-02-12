@@ -12,24 +12,6 @@ conhecimentos em JavaScript e desenvolvimento de interfaces modernas e responsiv
 
 Estou sempre em busca de novos desafios que contribuam para meu crescimento profissional na área de tecnologia.
 
-<!----<p align="left">
-    <a href="https://www.linkedin.com/in/bruno-da-silva-chagas-5ab7bb377/">
-        <img alt="Linkedin do Bruno" title="Perfil no Linkedin"
-            src="https://static.vecteezy.com/ti/vetor-gratis/p1/18910724-do-logotipo-do-linkedin-simbolo-do-linkedin-gratis-do-icone-do-linkedin-gratis-vetor.jpg" />
-    </a> -->
-
-<a href="https://github.com/BrunoSlvCh?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/BrunoSlvCh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-</a>
-<a href="https://github.com/BrunoSlvCh?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/BrunoSlvCh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-</a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
@@ -38,6 +20,12 @@ Estou sempre em busca de novos desafios que contribuam para meu crescimento prof
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left"
+    src="https://media.licdn.com/dms/image/v2/C5612AQEiUHTPJvde8Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1650114612835?e=2147483647&v=beta&t=750NHHiIXkbChmlxNU53ZXNfMcUWupHjwxsZn7Y0UEE"
+    alt="VBA" title="Visual Basic" width="30px" style="padding-right: 10px;">
+<img src="https://cdn-icons-png.flaticon.com/512/29/29147.png" alt="Windows/MS-DOS" title="Arquivos BAT" width="30px"
+    style="padding-right: 10px;">
+
 
 <br />
 <br />
