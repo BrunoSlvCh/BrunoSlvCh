@@ -6,8 +6,8 @@ Me chamo Bruno da Silva Chagas, tenho 19 anos e sou de Santo André - SP. Atualm
 Desenvolvimento de Sistemas na FATEC. Tenho grande interesse por tecnologia e pelo impacto que ela pode gerar na vida
 das pessoas.
 
-Tenho focado meus estudos em desenvolvimento de sites e programas, construindo projetos com HTML5, CSS3 e alguns em Python, aplicando boas práticas
-de estruturação semântica, organização de código com identação e identidade visual. Busco evoluir constantemente, aprofundando meus
+Tenho focado meus estudos em desenvolvimento de programas, construindo projetos em Python, aplicando boas práticas
+de organização de código e identação. Busco evoluir constantemente, aprofundando meus
 conhecimentos em desenvolvimento de interfaces e programas modernos e responsivos.
 
 Estou sempre em busca de novos desafios que contribuam para meu crescimento profissional na área de tecnologia.
