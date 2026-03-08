@@ -25,7 +25,10 @@ Estou sempre em busca de novos desafios que contribuam para meu crescimento prof
     alt="VBA" title="Visual Basic" width="30px" style="padding-right: 10px;">
 <img src="https://cdn-icons-png.flaticon.com/512/29/29147.png" alt="Windows/MS-DOS" title="Arquivos BAT" width="30px"
     style="padding-right: 10px;">
-
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" title="Linguagem JavaScript" width="30px"
+    style="padding-right: 10px;">
+<img src="https://cdn-icons-png.flaticon.com/128/14421/14421786.png" alt="SQLite" title="Banco de Dados SQLIte" width="30px"
+    style="padding-right: 10px;">
 
 <br />
 <br />
