@@ -20,14 +20,13 @@ Estou sempre em busca de novos desafios que contribuam para meu crescimento prof
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left"
-    src="https://media.licdn.com/dms/image/v2/C5612AQEiUHTPJvde8Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1650114612835?e=2147483647&v=beta&t=750NHHiIXkbChmlxNU53ZXNfMcUWupHjwxsZn7Y0UEE"
+<img align="left" src="https://media.licdn.com/dms/image/v2/C5612AQEiUHTPJvde8Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1650114612835?e=2147483647&v=beta&t=750NHHiIXkbChmlxNU53ZXNfMcUWupHjwxsZn7Y0UEE"
     alt="VBA" title="Visual Basic" width="30px" style="padding-right: 10px;">
-<img src="https://cdn-icons-png.flaticon.com/512/29/29147.png" alt="Windows/MS-DOS" title="Arquivos BAT" width="30px"
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/29/29147.png" alt="Windows/MS-DOS" title="Arquivos BAT" width="30px"
     style="padding-right: 10px;">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" title="Linguagem JavaScript" width="30px"
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" title="Linguagem JavaScript" width="30px"
     style="padding-right: 10px;">
-<img src="https://cdn-icons-png.flaticon.com/128/14421/14421786.png" alt="SQLite" title="Banco de Dados SQLIte" width="30px"
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/14421/14421786.png" alt="SQLite" title="Banco de Dados SQLIte" width="30px"
     style="padding-right: 10px;">
 
 <br />
