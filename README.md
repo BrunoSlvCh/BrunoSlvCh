@@ -1,6 +1,6 @@
 # 👨‍💻 Bruno da Silva Chagas
 
-**`Developer | HTML5, CSS3, C#, Python, JavaScript & MySQL.`**
+**`Developer | HTML5, CSS3, Java, Python, JavaScript & MySQL.`**
 
 Me chamo Bruno da Silva Chagas, tenho 19 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e
 Desenvolvimento de Sistemas na FATEC.
