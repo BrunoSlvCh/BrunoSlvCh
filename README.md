@@ -2,14 +2,7 @@
 
 **`Developer | HTML5, CSS3, Java, Python, JavaScript & MySQL.`**
 
-Me chamo Bruno da Silva Chagas, tenho 19 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e
-Desenvolvimento de Sistemas na FATEC.
-
-Tenho focado meus estudos em desenvolvimento de programas, construindo projetos em Python e C#, aplicando boas práticas
-de organização de código e identação. Busco evoluir constantemente, aprofundando meus
-conhecimentos em desenvolvimento de interfaces e programas modernos e responsivos.
-
-Estou sempre em busca de novos desafios que contribuam para meu crescimento profissional na área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC, utilizo Python e Java no desenvolvimento de aplicações, com integração entre sistemas e manipulação de dados. Experiência na construção de interfaces web utilizando HTML, CSS e JavaScript, criando aplicações funcionais e integradas ao backend em Python ou Java. Uso de MySQL para modelagem, armazenamento e gerenciamento de dados em aplicações. 
 
 ### 🤖 Linguagens e Tecnologias
 
