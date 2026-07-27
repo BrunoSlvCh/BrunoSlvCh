@@ -2,7 +2,16 @@
 
 **`Developer | HTML5, CSS3, Java, Python, JavaScript & MySQL.`**
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC, utilizo Python e Java no desenvolvimento de aplicações, com integração entre sistemas e manipulação de dados. Experiência na construção de interfaces web utilizando HTML, CSS e JavaScript, criando aplicações funcionais e integradas ao backend em Python ou Java. Uso de MySQL para modelagem, armazenamento e gerenciamento de dados em aplicações. 
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC, com foco no desenvolvimento de aplicações Java e APIs REST utilizando Spring Boot. Possuo conhecimentos em Programação Orientada a Objetos (POO), modelagem e gerenciamento de bancos de dados relacionais, além de boas práticas de versionamento de código.
+
+• Java e Spring Boot para desenvolvimento de aplicações e APIs REST
+• Programação Orientada a Objetos (POO)
+• Automações em Python
+• Bancos de dados MySQL e SQL Server
+• Conceitos de arquitetura REST e integração entre sistemas
+• HTML e CSS para desenvolvimento de interfaces web
+• Git e GitHub para controle de versão e colaboração em projetos
+Busco constantemente aprimorar meus conhecimentos por meio de projetos práticos e estudos voltados ao desenvolvimento de software. 
 
 ### 🤖 Linguagens e Tecnologias
 
