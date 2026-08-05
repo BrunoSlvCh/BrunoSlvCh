@@ -1,6 +1,6 @@
 # 👨‍💻 Bruno da Silva Chagas
 
-**`Developer | HTML5, CSS3, Java, Python, JavaScript & MySQL.`**
+**`Developer | Java, Python, HTML5, CSS3, AWS & MySQL.`**
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC, com foco no desenvolvimento de aplicações Java e APIs REST utilizando Spring Boot. Possuo conhecimentos em Programação Orientada a Objetos (POO), modelagem e gerenciamento de bancos de dados relacionais, além de boas práticas de versionamento de código.
 
