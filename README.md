@@ -60,8 +60,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, com foco n
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoSlvCh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSlvCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-brundabharadwaj.vercel.app/api?username=BrunoSlvCh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-brundabharadwaj.vercel.app/api/top-langs/?username=BrunoSlvCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -74,10 +74,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, com foco n
 
 <p align="center">
   <a href="https://github.com/BrunoSlvCh/cloud-box-aws">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoSlvCh&repo=cloud-box-aws&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-brundabharadwaj.vercel.app/api/pin/?username=BrunoSlvCh&repo=cloud-box-aws&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/BrunoSlvCh/Sonora-API">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoSlvCh&repo=Sonora-API&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-brundabharadwaj.vercel.app/api/pin/?username=BrunoSlvCh&repo=Sonora-API&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
